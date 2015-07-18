@@ -1,5 +1,4 @@
 CREATE DATABASE craigslistAd;
-st att
 DROP TABLE IF EXISTS car;
 DROP TABLE IF EXISTS listing;
 DROP TABLE IF EXISTS seller;
